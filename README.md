@@ -1,1 +1,1 @@
-# PRO-C37-KANGAROO-IN-THE-JUNGLE-2
+# project-template-kangaroo-2
